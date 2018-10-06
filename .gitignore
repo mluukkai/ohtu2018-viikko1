@@ -1,0 +1,8 @@
+NhlStatistics1
+build
+.classpath
+.gradle/
+.nb-gradle/
+.project
+.settings/
+bin/
